@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Loaner Request">46a95c1e2fd03010a0201e282799b6c9</catalog_item>
+        <catalog_variable>IO:f6a9905e2fd03010a0201e282799b64a</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-25 11:58:08</sys_created_on>
+        <sys_id>f4f060d22f143010a0201e282799b6d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_610730_loaner_re">8f30d4042f903010a0201e282799b682</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">8f30d4042f903010a0201e282799b682</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_f4f060d22f143010a0201e282799b6d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-25 11:58:08</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Only show Other fields if Depot valis is Other">4ed0ec922f143010a0201e282799b6fe</ui_policy>
+        <variable>other</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
